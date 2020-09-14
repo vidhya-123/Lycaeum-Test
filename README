@@ -1,0 +1,14 @@
+Task 1: Load.py
+---------------
+Execute this file by using the command "python load.py nba.csv".
+When running this program, a sqlite database will be created named as "nba.sqlite", which holds datas in the file "nba.csv" already uploaded.
+Here, "nba.csv" file taking as an argument.
+
+Task 2: download_image.py
+-------------------------
+Execute this file by using the command "python download_image.py".
+There is a url "https://www.indiaglitz.com/aamir-khan-photos-hindi-actor-2628990-7950" already given in the program.
+When running this program, the all images of "Amir Khan" from the website will be downloaded into a folder named as "folder".
+A regular expression is used to filter that specific images.
+
+Thank You.
